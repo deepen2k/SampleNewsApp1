@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">NewsApp</string>
+    <string name="no_bookmarks_found">" No Bookmarks Found"</string>
+    <string name="loading_bookmarks">" Loading bookmarks"</string>
+    <string name="confrim_delete">Confrim Delete</string>
+    <string name="are_you_sure_you_want_to_remove_this_bookmark">Are you sure you want to remove this bookmark?</string>
+</resources>
